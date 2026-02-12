@@ -271,9 +271,7 @@ npm install
 - [ ] Add streaming responses
 - [ ] Deploy to production
 
-## 📄 License
 
-MIT
 
 ## 👥 Authors
 
