@@ -1,5 +1,4 @@
-# RAG Chat Application with LandingAI ADE
-
+# Beyond OCR: Agentic Layout-Aware Document Intelligence for RAG Applications
 A full-stack chat application that combines Retrieval-Augmented Generation (RAG) with document processing using LandingAI ADE.
 
 ## 🎯 Features
